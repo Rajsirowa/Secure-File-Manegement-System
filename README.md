@@ -22,6 +22,8 @@ Let me know if you want a version for a report, presentation, or abstract.
 
 🌟 How to Run This Project
 ׂ╰┈➤ Open the Command Prompt in your PC & Run this command 
+
+
 python3.11 -m streamlit run "file directory\filename.py"
 
 ׂ╰┈➤After That 
